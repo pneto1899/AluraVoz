@@ -3,7 +3,7 @@
 Na reunião inicial com as pessoas responsáveis pela área de vendas da empresa, foi explicada a importância de se reduzir a Taxa de Evasão de Clientes, conhecido como Churn Rate. Basicamente, o Churn Rate indica o quanto a empresa perdeu de receita ou clientes em um período de tempo.  Com sua experiência, você sugere, como passo inicial, a identificação de clientes que teriam uma maior chance de deixar a empresa. Para isso, você explica que é interessante investigar algumas características de clientes ou dos planos de clientes para tentar CLASSIFICAR estas pessoas como potenciais candidatas a deixar a empresa ou não.
 
 ## Dicionário de dados
-customerID: número de identificação único de cada cliente
+- customerID: número de identificação único de cada cliente
 Churn: se o cliente deixou ou não a empresa
 gender: gênero (masculino e feminino)
 SeniorCitizen: informação sobre um cliente ter ou não idade igual ou maior que 65 anos
